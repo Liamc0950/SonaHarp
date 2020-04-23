@@ -1,5 +1,5 @@
 # SonarTheremin
-This project is an attempt to use sonar sensors to control audio synthesis and output. Sonar sensors capture distance data of a user's 
+This project uses sonar sensors to control audio synthesis and output. Sonar sensors capture distance data of a user's 
 hand's relative position to the sensor, and send this data to an Arduino Uno. Five 10K potentiometers are also connected to the Arduino.  
 These control ADSR filters and overall gain of the output. 
 
